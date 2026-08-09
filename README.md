@@ -1,93 +1,116 @@
-# fullstack-porfolio-Stanie
-Fullstack developper learnig prosess
-# Day 1 - Learning HTML
+# 🚀 Full Stack Portfolio – Stanie Maba
 
-## What I Learned Today
+Welcome to my Full Stack Development journey!
 
-### 1. What is `<!DOCTYPE html>`?
-
-The `<!DOCTYPE html>` declaration tells the browser that the document is written using HTML5. It helps the browser correctly interpret and render the webpage.
+This repository documents my progress as I learn modern web development and build real-world projects. My goal is to become a job-ready Full Stack Developer by building practical applications and strengthening my software engineering skills.
 
 ---
 
-### 2. What is the difference between `<head>` and `<body>`?
+## 👨‍💻 About Me
 
-#### `<head>`
+Hi, I'm **Stanie Maba**.
 
-The `<head>` section contains information about the webpage that is not visible to users. It includes metadata such as:
+I have over six years of experience as a **DevOps Engineer** and I'm expanding my skills into **Full Stack Development**.
 
-- Character encoding (`UTF-8`)
-- Viewport settings for responsive design
-- Page title
-- Links to CSS files
-- Other information the browser uses
+This repository serves as both my learning journal and my portfolio, where I document what I learn and showcase the projects I build.
 
-#### `<body>`
+---
 
-The `<body>` contains everything visible on the webpage, including:
+##  Goal
 
+My goal is to become a professional Full Stack Developer by:
+
+- Learning modern web technologies
+- Building real-world projects
+- Practicing coding every day
+- Understanding software engineering fundamentals
+- Preparing for technical interviews
+
+---
+
+## 🛠️ Technologies
+
+Current learning path:
+
+- ✅ HTML
+- ⬜ CSS
+- ⬜ JavaScript
+- ⬜ React
+- ⬜ Node.js
+- ⬜ Express.js
+- ⬜ SQL
+- ⬜ Git & GitHub
+- ⬜ REST APIs
+
+---
+
+## 📂 Repository Structure
+
+```text
+fullstack-portfolio-Stanie/
+│
+├── README.md
+├── lessons/
+├── portfolio/
+├── exercises/
+└── projects/
+```
+
+### 📘 lessons/
+
+Contains my daily learning notes and explanations of concepts.
+
+### 🌐 portfolio/
+
+My personal portfolio website that I will continue improving throughout this learning journey.
+
+### 💻 exercises/
+
+Small coding exercises used to practice new concepts.
+
+### 🚀 projects/
+
+Complete applications built while learning.
+
+---
+
+## 📅 Progress
+
+### Week 1 – HTML Fundamentals
+
+- [x] HTML document structure
+- [x] Headings
+- [x] Paragraphs
+- [x] Lists
+- [x] Sections
+- [x] HTML attributes
+- [ ] Links
+- [ ] Images
+- [ ] Forms
+- [ ] Tables
+
+---
+
+## 📈 Current Status
+
+**Day 1**
+
+Today I built my first HTML webpage and learned:
+
+- HTML document structure
+- The purpose of the `<head>` and `<body>`
+- Semantic sections
 - Headings
 - Paragraphs
-- Images
 - Lists
-- Buttons
-- Links
+- HTML attributes
 
 ---
 
-### 3. What is a `<section>`?
+## Connect With Me
 
-A `<section>` groups related content together.
-
-Examples include:
-
-- About Me
-- Technical Skills
-- Projects
-- Contact
-
-Using sections makes a webpage easier to organize, read, and maintain.
+GitHub: https://github.com/valette06
 
 ---
 
-### 4. What are `<h1>`, `<h2>`, and `<h3>`?
-
-Headings create a hierarchy on the page.
-
-- `<h1>` is the main title of the webpage and should usually appear only once.
-- `<h2>` is used for major sections.
-- `<h3>` is used for subsections inside an `<h2>` section.
-
----
-
-### 5. What is the difference between `<ul>` and `<li>`?
-
-`<ul>` stands for **Unordered List**. It creates a bulleted list.
-
-`<li>` stands for **List Item**. Each item inside a list is placed inside its own `<li>` tag.
-
-Example:
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-### 6. What is an HTML attribute?
-
-An attribute provides additional information about an HTML element.
-
-Examples:
-
-- `lang="en"` specifies the language of the webpage.
-- `href="..."` specifies the destination of a hyperlink.
-- `src="..."` specifies the source of an image.
-
-Attributes are placed inside the opening tag of an HTML element.
-
----
-
-## Reflection
-
-Today I built my first HTML webpage and learned how HTML provides the structure of a website. I now understand the purpose of the document structure, semantic sections, headings, paragraphs, lists, and HTML attributes. This is the foundation I will build on as I continue learning CSS, JavaScript, React, and full-stack development.
+Thank you for visiting my repository!
