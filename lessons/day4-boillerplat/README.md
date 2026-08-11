@@ -1,0 +1,1 @@
+Boiller plate is a structure of html
