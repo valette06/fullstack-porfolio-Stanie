@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(214, 174, 193, 0.521);
+    text-align: left;
+}
+p {
+    color: rgb(3, 2, 2);
+    font-family: Arial, sans-serif;
+}
+a{
+  text-decoration: underline;
+  color: #0808ba;
+}
+h1 {
+    color: #333;
+    text-align: center;
+    font-size: 36px;
+}
+* {
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.practice{
+  color: rgb(172, 10, 34);
+  text-align: center;
+    font-size: 25px;
+}
+.note {
+  color: #0808ba;
+  
+}
+
+#main-title {
+  color: blue;
+  text-align: center;
+  font-size: 36px;
+  text-decoration: underline;
+
+}
